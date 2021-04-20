@@ -2,7 +2,7 @@
 # Predicting Customer Response on Starbucks Promotional Offers 
 ### Detailed Walk-Through of a Udacity Data Scientist Nanodegree Capstone Project using Supervised Machine Learning with Python, Pandas and Scikit-learn
 
-![Starbucks Header](/pics/starbucks_ml_capstone.png)
+![Starbucks Header](/starbucks_ml_capstone.jpg)
 
 *Picture: Derivative from [DAKALUK](https://commons.wikimedia.org/wiki/File:HK_Starbucks_Coffee_in_Caine_Road.jpg), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)*
 
