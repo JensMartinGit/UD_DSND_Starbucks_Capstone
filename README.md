@@ -25,3 +25,7 @@ The project uses Python 3.7.9 (Anaconda 4.9.2 distribution) with the following l
 - imblearn
 - json
 - pickle
+
+### 5. Licensing
+
+This project is licensed under the terms of the [MIT license](https://mit-license.org/).
